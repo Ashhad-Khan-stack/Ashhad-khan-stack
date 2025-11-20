@@ -20,4 +20,5 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashhad-Khan-stack&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhad-Khan-stack&layout=compact&theme=dark)
 
