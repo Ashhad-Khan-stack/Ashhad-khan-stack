@@ -46,3 +46,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashhad-Khan-stack&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhad-Khan-stack&layout=compact&theme=dark)
 
+
+# 🐍 Contribution Snake Animation  
+![snake](https://raw.githubusercontent.com/Ashhad-Khan-stack/Ashhad-Khan-stack/output/github-contribution-grid-snake.svg)
+
