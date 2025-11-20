@@ -1,7 +1,8 @@
 # Hi 👋, I'm Ashhad U Rehman Khan
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-<img src="https://i.imgur.com/ZU0cE6z.jpeg" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhvZnhnM2YzZ2RxZjBvZ2FwbzFvZ3YyNDZiYm52Yzl3b3RrZXc1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j5h42INBJ0LHm/giphy.gif" width="100%" />
+
 
 🚀 Data Scientist (5+ years in ML, DL, NLP)  
 💼 Specialized in Python, TensorFlow, PyTorch, SQL  
