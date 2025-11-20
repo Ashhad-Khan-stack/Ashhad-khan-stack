@@ -1,5 +1,7 @@
 # Hi 👋, I'm Ashhad U Rehman Khan
 
+<img src="https://i.imgur.com/6aZLw7Z.png" width="100%" />
+
 🚀 Data Scientist (5+ years in ML, DL, NLP)  
 💼 Specialized in Python, TensorFlow, PyTorch, SQL  
 🎯 Focus Areas: Deep Learning, NLP, Agentic AI  
