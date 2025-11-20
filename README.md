@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Ashhad U Rehman Khan
 
-<!--
-**Ashhad-Khan-stack/Ashhad-khan-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Scientist (5+ years in ML, DL, NLP)  
+💼 Specialized in Python, TensorFlow, PyTorch, SQL  
+🎯 Focus Areas: Deep Learning, NLP, Agentic AI  
+🌐 Building Zirconia – an AI-powered eCommerce platform  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, R, Julia  
+- Machine Learning, Deep Learning  
+- NLP, Computer Vision  
+- TensorFlow, PyTorch, Scikit-Learn  
+- FastAPI, React, Azure  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- Agentic AI Predictive Dialer  
+- AI Resume Screener  
+- Automated News Category Classifier  
+- Image Segmentation (TensorFlow)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashhad-Khan-stack&show_icons=true)
+
