@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ashhad U Rehman Khan
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3phZ2Vxc2Z6c2Y0ZXZja2V2cWtzYzJ3MG96NTFib3p2YmpjeGl6NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3phZ2Vxc2Z6c2Y0ZXZja2V2cWtzYzJ3MG96NTFib3p2YmpjeGl6NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50%" />
 
 
 🚀 Data Scientist (5+ years in ML, DL, NLP)  
