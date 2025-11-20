@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/6aZLw7Z.png" width="100%" />
+
 # Hi 👋, I'm Ashhad U Rehman Khan
 
 🚀 Data Scientist (5+ years in ML, DL, NLP)  
